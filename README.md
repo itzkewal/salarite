@@ -38,3 +38,4 @@ A simple yet powerful Task Management and Interview Scheduling system.
 - **Employee Workspace**: View assigned tasks, Start or Complete them.
 - **Real-time Sync**: The dashboard auto-refreshes every 5 seconds to keep data updated.
 - **Interview Placeholder**: Join calls directly from the dashboard.
+abcd
