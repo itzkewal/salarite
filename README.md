@@ -34,8 +34,7 @@ A simple yet powerful Task Management and Interview Scheduling system.
    The dashboard will open at `http://localhost:3000`.
 
 ## Features
-- **HR Dashboard**: Create tasks, Assign them to employees, Schedule interviews.
-- **Employee Workspace**: View assigned tasks, Start or Complete them.
+- **Employee Workspace**: Create tasks, Assign them to Virtual HR.
+- **Virtual HR**: View assigned tasks, Schedule interviews.
 - **Real-time Sync**: The dashboard auto-refreshes every 5 seconds to keep data updated.
 - **Interview Placeholder**: Join calls directly from the dashboard.
-abcd
